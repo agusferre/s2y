@@ -1,0 +1,2 @@
+- fix second channel is the correct in yt search
+- add yt subscribers column

@@ -1,0 +1,7 @@
+venv/
+.cache
+.DS_Store
+token.pickle
+credentials.json
+headers_auth.json
+yt_client_secret.json
